@@ -62,7 +62,7 @@ THEN I should have proper build scripts for a webpack application
 
 ### Links
 
-- Solution URL: [/ayeh6/Yeh-JATE-Editor](https://github.com/ayeh6/Yeh-Editor)
+- Solution URL: [/ayeh6/Yeh-JATE-Editor](https://github.com/ayeh6/Yeh-JATE-Editor)
 
 ## My process
 
