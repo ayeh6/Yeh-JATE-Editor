@@ -1,4 +1,4 @@
-# Yeh Editor (JATE)
+# Yeh JATE Editor
 
 ## Table of contents
 
